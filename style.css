@@ -1,3 +1,6 @@
+body{
+    background-color: antiquewhite;
+}
 h1{
     font-family: Arial, Helvetica, sans-serif;
     color: #4caf50;
@@ -6,4 +9,11 @@ h1{
 h2{
     font-family: Arial, Helvetica, sans-serif;
     color: #4caf50;
+}
+#head{
+    text-indent: 50px ;
+    color:white;
+}
+div{
+    background-color: rgb(131, 91, 46);
 }
